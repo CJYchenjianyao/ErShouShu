@@ -126,7 +126,7 @@ UML：统一建模语言，是一套用来设计软件蓝图的标准建模语�
 系统用例图
 ----------
 
-![C:\\Users\\hp\\Documents\\Tencent Files\\1041403539\\Image\\Group\\CA{S6{\~ZP{UN3P]]C\@_N)IH.png](media/ecc42623e2d314aa3e5d831c08b1157f.png)
+![(media\\ecc42623e2d314aa3e5d831c08b1157f.png](media/ecc42623e2d314aa3e5d831c08b1157f.png)
 
 功能划分
 --------
